@@ -1,0 +1,44 @@
+.picture {
+    display: flex;
+}
+
+
+.article {
+    margin: 16px;
+}
+
+.picture {
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+}
+
+p.john {
+    font-size: 38px;
+    padding: 32px;
+}
+
+button {
+    background-color: cadetblue;
+    padding: 16px;
+    margin: 16px;
+}
+
+.space {
+    box-shadow: 1px 2px 12px;
+    border-radius: 10px;
+}
+
+.image {
+    background-attachment: fixed;
+}
+
+div#profil {
+    border: 2px 4px;
+    border-radius: -16px;
+    border: 1px solid;
+    box-shadow: 1px 2px 10px currentColor;
+}       
+    
